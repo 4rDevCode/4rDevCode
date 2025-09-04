@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Jefrinsson J F Calderón</h1>
+<h1 align="center">Hola 👋, soy Jefrinsson J Fernández Calderón</h1>
 
 - 💻 Desarrollador de Software
-- 🚀 Experiencia con **PHP (Laravel)**, **C#**, **TypeScript**, **React**, **Flutter**
+- 🚀 Experiencia con **PHP (Laravel)**, **C#**, **TypeScript**, **React**, **Flutter**, **Java**, **Android Studio**
 - 🗄️ Bases de datos: MySQL, SQL Server
 - 📊 Interés en arquitectura SOA, APIs y sistemas financieros
 

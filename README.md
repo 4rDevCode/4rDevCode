@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hola, soy Jefrinsson
 
-<!--
-**4rDevCode/4rDevCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 💻 Desarrollador de Software
+- 🚀 Experiencia con **PHP (Laravel)**, **C#**, **TypeScript**, **React**, **Flutter**
+- 🗄️ Bases de datos: MySQL, SQL Server
+- 📊 Interés en arquitectura SOA, APIs y sistemas financieros
 
-Here are some ideas to get you started:
+### 🛠️ Tecnologías
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos Destacados
+- [Comsys Next](#) → ERP web en Laravel + React
+- [TPresto](#) → Sistema de préstamos con Flutter + Laravel API

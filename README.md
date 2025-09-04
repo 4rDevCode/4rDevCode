@@ -15,3 +15,6 @@
 ### 📌 Proyectos Destacados
 - [Comsys Next](#) → ERP web en Laravel + React
 - [TPresto](#) → Sistema de préstamos con Flutter + Laravel API
+
+![GitHub followers](https://img.shields.io/github/followers/4rDevCode?style=social)
+![GitHub stars](https://img.shields.io/github/stars/4rDevCode?style=social)

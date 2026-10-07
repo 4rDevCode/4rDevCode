@@ -5,9 +5,6 @@
 <p align="center">
   Desarrollo de soluciones empresariales, aplicaciones multiplataforma e integración de sistemas.
 </p>
-<p align="center">
-  <a href="https://github.com/4rDevCode">GitHub</a>
-</p>
 
 ## Sobre mí
 
